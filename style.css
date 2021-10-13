@@ -1,0 +1,26 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+header {
+  height: 100px;
+}
+div {
+  display: flex;
+  flex: 1;
+}
+main {
+  flex: 150px;
+}
+nav {
+  width: 150px;
+}
+aside {
+  width: 200px;
+}
+footer {
+  height: 150px;
+}
